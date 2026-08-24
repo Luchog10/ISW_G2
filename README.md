@@ -43,10 +43,9 @@
 │   └── TomaDeNota/
 │
 └── ProducciónPropia/
-    ├── Parcial1/
-    │   └── Resúmenes/
-    ├── Parcial2/
-    │   └── Resúmenes/
+    ├── Resumenes/
+    │   └── Parcial1/
+    │   └── Parcial2/
     ├── Practicos/
     └── TPs/
 ```
