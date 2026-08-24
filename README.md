@@ -35,7 +35,7 @@
 ```text
 /
 ├── Catedra/
-│   ├── Bibliografía/
+│   ├── Bibliografia/
 │   │    ├── IngenieriaDeSoftware/
 │   │    ├── SCM/
 │   │    ├── TestingDeSoftware/
@@ -56,7 +56,7 @@
 │        ├── CasosDeEstudioYTrabajosPracticos/
 │        └── TemplatesParaPracticosYParciales/
 │
-└── ProducciónPropia/
+└── ProduccionPropia/
     ├── Resumenes/
     │   ├── Parcial1/
     │   └── Parcial2/
