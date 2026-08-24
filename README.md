@@ -13,19 +13,24 @@
 
 ## Integrantes
 
-* Celiz Reyna Maria Paz - 401120
-* Chiaramello Francisco - 400334
-* Conci Del Lungo Bruno - 406664
-* Di Biase Usiel - 401914
-* Elordi Mariano - 96060
-* Génova Luciano - 403123
-* Ittig María Pía - 401818
-* Lopez Perez Camila Belén - 403546
-* López Quinteros Manuel - 99026
-* Luna Agustin Ignacio - 96113
-* Moyano Carvallo Santiago Nicolas - 94003
-* Sonzini Astudillo Juan Cruz - 400497
-* Trossero Marcos Gabriel - 401462
+| Nombre completo                  | Legajo | Usuario de GitHub |
+| -------------------------------- | -----: | ----------------- |
+| Celiz Reyna Maria Paz            | 401120 |          ReynaCeliz         |
+| Chiaramello Francisco            | 400334 |         Chiara-8          |
+| Conci Del Lungo Bruno            | 406664 |         brunoconcidellungo          |
+| Di Biase Usiel                   | 401914 |         usieldibiase          |
+| Funes, Federico Luis         | 400266 |            FunesFede       |
+| Elordi Mariano                   |  96060 |          elordimariano         |
+| Génova Luciano                   | 403123 |         Luchog10          |
+| Ittig María Pía                  | 401818 |          piaa98         |
+| Lopez Perez Camila Belén         | 403546 |          camilalopez511         |
+| López Quinteros Manuel           |  99026 |                   |
+| Luna Agustin Ignacio             |  96113 |         Lunaa0912          |
+| Moyano Carvallo Santiago Nicolas |  94003 |         Nikolai-MC          |
+| Sonzini Astudillo Juan Cruz      | 400497 |          JuanCruzSonzini         |
+| Trossero Marcos Gabriel          | 401462 |                   |
+
+
 
 ## Estructura del repositorio
 
