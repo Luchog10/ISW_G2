@@ -24,7 +24,7 @@
 | Génova Luciano                   | 403123 |         Luchog10          |
 | Ittig María Pía                  | 401818 |          piaa98         |
 | Lopez Perez Camila Belén         | 403546 |          camilalopez511         |
-| López Quinteros Manuel           |  99026 |                   |
+| López Quinteros Manuel           |  99026 |         manulq          |
 | Luna Agustin Ignacio             |  96113 |         Lunaa0912          |
 | Moyano Carvallo Santiago Nicolas |  94003 |         Nikolai-MC          |
 | Sonzini Astudillo Juan Cruz      | 400497 |          JuanCruzSonzini         |
