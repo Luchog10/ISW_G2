@@ -19,7 +19,7 @@
 | Chiaramello Francisco            | 400334 |         Chiara-8          |
 | Conci Del Lungo Bruno            | 406664 |         brunoconcidellungo          |
 | Di Biase Usiel                   | 401914 |         usieldibiase          |
-| Funes, Federico Luis         | 400266 |            FunesFede       |
+| Funes Federico Luis         | 400266 |            FunesFede       |
 | Elordi Mariano                   |  96060 |          elordimariano         |
 | Génova Luciano                   | 403123 |         Luchog10          |
 | Ittig María Pía                  | 401818 |          piaa98         |
