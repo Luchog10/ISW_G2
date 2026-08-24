@@ -16,7 +16,7 @@
 | Nombre completo                  | Legajo | Usuario de GitHub |
 | -------------------------------- | -----: | ----------------- |
 | Celiz Reyna Maria Paz            | 401120 |          ReynaCeliz         |
-| Chiaramello Francisco            | 400334 |         FChiara-8          |
+| Chiaramello Francisco            | 400334 |         FChiar-8          |
 | Conci Del Lungo Bruno            | 406664 |         brunoconcidellungo          |
 | Di Biase Usiel                   | 401914 |         usieldibiase          |
 | Funes Federico Luis         | 400266 |            FunesFede       |
