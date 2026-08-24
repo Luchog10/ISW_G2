@@ -36,25 +36,50 @@
 /
 ├── Catedra/
 │   ├── Bibliografía/
+│   │    ├── IngenieriaDeSoftware/
+│   │    ├── SCM/
+│   │    ├── TestingDeSoftware/
+│   │    ├── TDD/
+│   │    ├── Agilismo/
+│   │    └── LeanYKanban/
 │   ├── MaterialClases/
-│        └──PresentacionesDeClase/
-|        └──ClasesGrabadas/
-|        └──CasosDeEstudioYTrabajosPracticos
-|        └──TemplatesParaPracticosYParciales
+│   │    ├── Unidad1/
+│   │    ├── Unidad2/
+│   │    ├── Unidad3/
+│   │    └── Unidad4/
 │   └── ProgramaDeLaMateria/
 │
 ├── DeClase/
 │   └── TomaDeNota/
+│        ├── PresentacionesDeClase/
+│        ├── ClasesGrabadas/
+│        ├── CasosDeEstudioYTrabajosPracticos/
+│        └── TemplatesParaPracticosYParciales/
 │
 └── ProducciónPropia/
     ├── Resumenes/
-    │   └── Parcial1/
+    │   ├── Parcial1/
     │   └── Parcial2/
     ├── Practicos/
+    ├── TIGs/
+    │   ├── TIG1/
+    │   └── TIG2/
     └── TPs/
-        └── TPsEvaluables
-        └── TPsNoEvaluables
-    └── TIGs/
+        ├── TPsEvaluables/
+        │   ├── 1-TP4/
+        │   ├── 2-TP7/
+        │   ├── 3-TP6/
+        │   ├── 4-TP10/
+        │   ├── 5-TP12/
+        │   ├── 6-TP11/
+        │   ├── 7-TP5/
+        │   └── 8-Opcional: TP 13/
+        └── TPsNoEvaluables/
+            ├── 1-TP1/
+            ├── 2-TP2/
+            ├── 3-TP3/
+            ├── 4-TP8/
+            └── 5-TP9/
 ```
 
 ## Convención de nombres
