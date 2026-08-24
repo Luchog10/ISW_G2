@@ -28,7 +28,7 @@
 | Luna Agustin Ignacio             |  96113 |         Lunaa0912          |
 | Moyano Carvallo Santiago Nicolas |  94003 |         Nikolai-MC          |
 | Sonzini Astudillo Juan Cruz      | 400497 |          JuanCruzSonzini         |
-| Trossero Marcos Gabriel          | 401462 |                   |
+| Trossero Marcos Gabriel          | 401462 |          marcostrossero         |
 
 ## Estructura del repositorio
 
