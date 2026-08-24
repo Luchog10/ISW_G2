@@ -30,21 +30,20 @@
 | Sonzini Astudillo Juan Cruz      | 400497 |          JuanCruzSonzini         |
 | Trossero Marcos Gabriel          | 401462 |                   |
 
-
-
 ## Estructura del repositorio
 
 ```text
 /
 ├── Catedra/
-│   ├── CasosDeEstudio/
-│   ├── MaterialBibliográfico/
-│   ├── PresentacionesDeClase/
-│   ├── ProgramaDeLaMateria/
-│   └── TrabajoDeInvestigacionGrupal/
+│   ├── Bibliografía/
+│   ├── MaterialClases/
+│        └──PresentacionesDeClase/
+|        └──ClasesGrabadas/
+|        └──CasosDeEstudioYTrabajosPracticos
+|        └──TemplatesParaPracticosYParciales
+│   └── ProgramaDeLaMateria/
 │
 ├── DeClase/
-│   ├── ClasesGrabadas/
 │   └── TomaDeNota/
 │
 └── ProducciónPropia/
@@ -53,6 +52,7 @@
     │   └── Parcial2/
     ├── Practicos/
     └── TPs/
+    └── TIGs/
 ```
 
 ## Convención de nombres
@@ -62,7 +62,7 @@ Los archivos deberán respetar las reglas de nombrado establecidas por la cáted
 ### Ejemplos
 
 ```text
-ISW_G2_TPEval.pdf
+ISW_G2_TPE.pdf
 ISW_G2_CG_<Año>.mp4
 ```
 
@@ -70,12 +70,12 @@ Donde:
 
 * `<Año>`: año académico correspondiente.
 * `G2`: identificación del grupo.
-* `TPEval`: Trabajo Práctico evaluable.
+* `TPE`: Trabajo Práctico evaluable.
 * `CG`: clase grabada.
 * `.pdf`, `.mp4`, etc.: extensión correspondiente al tipo de archivo.
 
 Por ejemplo:
 
 ```text
-ISW_G2_TPEval1.pdf
+ISW_G2_TPE1.pdf
 ```
