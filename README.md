@@ -16,7 +16,7 @@
 | Nombre completo                  | Legajo | Usuario de GitHub |
 | -------------------------------- | -----: | ----------------- |
 | Celiz Reyna Maria Paz            | 401120 |          ReynaCeliz         |
-| Chiaramello Francisco            | 400334 |         Chiara-8          |
+| Chiaramello Francisco            | 400334 |         FChiar-8          |
 | Conci Del Lungo Bruno            | 406664 |         brunoconcidellungo          |
 | Di Biase Usiel                   | 401914 |         usieldibiase          |
 | Funes Federico Luis         | 400266 |            FunesFede       |
@@ -24,7 +24,7 @@
 | Génova Luciano                   | 403123 |         Luchog10          |
 | Ittig María Pía                  | 401818 |          piaa98         |
 | Lopez Perez Camila Belén         | 403546 |          camilalopez511         |
-| López Quinteros Manuel           |  99026 |                   |
+| López Quinteros Manuel           |  99026 |         manulq          |
 | Luna Agustin Ignacio             |  96113 |         Lunaa0912          |
 | Moyano Carvallo Santiago Nicolas |  94003 |         Nikolai-MC          |
 | Sonzini Astudillo Juan Cruz      | 400497 |          JuanCruzSonzini         |
@@ -35,26 +35,51 @@
 ```text
 /
 ├── Catedra/
-│   ├── Bibliografía/
+│   ├── Bibliografia/
+│   │    ├── IngenieriaDeSoftware/
+│   │    ├── SCM/
+│   │    ├── TestingDeSoftware/
+│   │    ├── TDD/
+│   │    ├── Agilismo/
+│   │    └── LeanYKanban/
 │   ├── MaterialClases/
-│        └──PresentacionesDeClase/
-|        └──ClasesGrabadas/
-|        └──CasosDeEstudioYTrabajosPracticos
-|        └──TemplatesParaPracticosYParciales
+│   │    ├── Unidad1/
+│   │    ├── Unidad2/
+│   │    ├── Unidad3/
+│   │    └── Unidad4/
 │   └── ProgramaDeLaMateria/
 │
 ├── DeClase/
 │   └── TomaDeNota/
+│        ├── PresentacionesDeClase/
+│        ├── ClasesGrabadas/
+│        ├── CasosDeEstudioYTrabajosPracticos/
+│        └── TemplatesParaPracticosYParciales/
 │
-└── ProducciónPropia/
+└── ProduccionPropia/
     ├── Resumenes/
-    │   └── Parcial1/
+    │   ├── Parcial1/
     │   └── Parcial2/
     ├── Practicos/
+    ├── TIGs/
+    │   ├── TIG1/
+    │   └── TIG2/
     └── TPs/
-        └── TPsEvaluables
-        └── TPsNoEvaluables
-    └── TIGs/
+        ├── TPsEvaluables/
+        │   ├── 1-TP4/
+        │   ├── 2-TP7/
+        │   ├── 3-TP6/
+        │   ├── 4-TP10/
+        │   ├── 5-TP12/
+        │   ├── 6-TP11/
+        │   ├── 7-TP5/
+        │   └── 8-Opcional: TP 13/
+        └── TPsNoEvaluables/
+            ├── 1-TP1/
+            ├── 2-TP2/
+            ├── 3-TP3/
+            ├── 4-TP8/
+            └── 5-TP9/
 ```
 
 ## Convención de nombres
