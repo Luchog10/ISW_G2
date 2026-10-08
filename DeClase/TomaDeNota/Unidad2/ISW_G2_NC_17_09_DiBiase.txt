@@ -1,0 +1,67 @@
+- - - - Trabajo Practico N°3 - - - -
+
+Hay un listado de US, la hipotesis me dice por que inclui estas US en el MPV.
+
+El alcance nos dice por que contemplamos algunas US, por que dejamos de lado otras, por que juntamos algunas.
+
+El Producto minimo es lo que sale menos plata y sacamos mas rapido al mercado.
+
+Queremos validar que existan vendedores. Hay que leer bien el enunciado porque aclara que cosas se contemplan y que no. Por ejemplo: El enunciado especifica que NO incluye la parte de logistica.
+
+ACTORES DESCUBIERTOS:
+
+- Vendedor
+- Analista de Seleccion
+- Analista de Publicacion
+- Comprador
+- Administrador
+- Encargado de logistica
+
+No es obligatorio hacer esto pero ayuda. Nos sirve para identificar bien las US. Son todos los roles que van a interactuar con el sistema, es decir, el producto en total.
+
+US (Relacionadas al vendedor) del MVP:
+
+1. Seleccion de prenda a publicar
+2. Enviar prendas para vender  
+3. Registrar con Mail al vendedor
+4. Confirmar propuesta de venta
+5. Iniciar sesion
+6. Seleccion Prenda a publicar
+7. Publicar prenda (Esta metido aca la generacion del QR)
+8. Completar ficha de prenda a publicar (Lo hace el analista de publicacion)
+
+Hay que centrarse en el MPV, es lo que se va a evaluar. El MPV esta relacionado a la hipotesis.
+
+En base a la hipotesis que tenemos que probar, desarrollar lo minimo posible para poder probar la hipotesis. Por eso no pedimos todas las US, sino aquellas para poder probar esto.
+
+Cada ejercicio es muy distinto, porque las US corresponden al MVP.
+
+Solo se desarollan 2 US a nivel de producto completas elegidas del MVP (Se hace a nivel de producto, completo como si ya todo estuviera desplegado. No es el minimo).
+
+Que no incluimos: Pago de vendedores, devoluciones, infomres de venta, logistica, integracion con plataformas, donaciones.
+
+------------------------
+
+Enviar prenda a publicar: Es opcional pero cada prenda tiene un peso maximo por foto. Se debe publicar un minimo 10 de prendas. El venfdedor deb estar registrado. Cada prenda debe pertencer a una categoria. Se debe selccionar la forma de envio. En caso de que sea punto de retiro se debe mostrar la lista. Se debe indicar la cantidad de prendas por categoria y por cada una hay que poner una descripcion.
+
+Probar [FRASE VERBAL] [ESCENARIO] ==> Asi se escriben las pruebas
+
+Nosotros tenemos que poder probar estas pruebas. 
+
+Podemos probar que el mail llegue, pero no es una prueba que un mail llegue mal (se vea mal la informacion) porque no podemos forzar esto.
+
+Una canonica la tomamos de referencia para poder estimar las demas. 
+
+Estimacion: 3. Canonica registrar vendedor con mail.
+Se estima en base a tu conocimiento.
+
+Incertidumbre: almacenar fotos, integraciones. 
+
+La incertidumbre dependera de cuanto sabes y cuanto demostras saber. Si vos pones toda la data e la base de datos y despues pones incertidumbre alta en base de datos no tiene sentido.
+
+Complejidad: Las validaciones
+
+US 2: Seleccionar prenda a publicar
+
+Lo unico que esta mal de la foto es lo de formato de ficha.
+

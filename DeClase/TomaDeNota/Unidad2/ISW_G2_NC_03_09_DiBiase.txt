@@ -1,0 +1,71 @@
+Claves para MPV:
+
+- Obtener el feedbac del cliente lo mas rapido posible.
+- Seguir el ciclo -> Construir, medir y adaptar -> principios agiles
+- Reducir los riesgos -> busco que con el menor costo, obtener la mayor informacion posible.
+
+El MVP me prmite empezar a visualir y dimensionar lo que voy a desarrolar en un Producto de desarrollo de software
+
+Estimar en lo tradicional y en lo agil no es lo mismo.
+
+* En lo tradicional: Tamaño, esfuerzo, costo, calendario/tiempo.
+* En lo Agil: Tamaño => User Stores - Story Points
+
+SP:
+
+-Complejidad
+-Incertidumbre
+-Esfuerzo
+
+
+No podemos estimar con el codigo, debemos hacerlo antes. Existen puntos de estimacion. 
+
+Estas estimaciones no siempre se pueden cumplir de forma exacta, habiendo puntos de control para ver como vamos (comparando lo que hicimos con lo que estimado).
+
+
+Cuando yo defino lo hipotesis, tengo que definir el MVP. ¿Como defino el MVP? Con el alcance del producto.
+
+El alcance del producto son las funcionalidades que cubre y que no. Lo definimos por un listado de US, frases verbales, de lo que incluye y lo que no incluye.
+
+Tambien se definen modulos (Modulos de Usuario, Estadisticas e informes, etc)
+
+Una vez tenemos definido el alcance, viene la justitifcacion. Yo tengo que justificar por que entra esto y por que entra esto. 
+
+Si yo no tengo idea de que probar el MVP no tiene sentido. 
+
+LISTADO DE US:
+
+- Mapa interactivo, pudiendo hacer click en iconos para informacion
+- Compra de entradas al parque
+- Acceso a informacion de cada exhibicion con horarios detallados de alimentacion
+- Inscripcion a actividades
+- Registrarse en la aplicacion
+- Activar notificaciones
+- Iniciar sesion
+
+Comencemos con el MVP:
+
+Hipotesis: Yo quiero mejorar la experiencia  de los visitnates del parque por medio de una aplicacion.
+
+Yo quiero atraer mas visitantes por medio de una aplicacion.
+
+Tengo que explicar si una US entra o no al MVP en su totalidad
+
+Puedo justificar "Yo lo integro porque.. me ayuda a..."
+
+Los enunciados se escriben para que no hayan muchos caminos o pensar demas los MVP, es decir, no hay muchas bifurcaciones.
+
+Debemos tratar de tener un MVP posible de hacer en una iteracion.
+
+La parte de administracion queda fuera de la aplicacion directamente, ni siquiera se considera eso en el MVP.
+
+Las notificaciones quedan fueras del MVP, agregan valor pero complejidad.
+
+Si algo va a ser incluido a futuro, nos da una idea de va en el "no incluye".
+
+Yo como equipo me puedo comprometer en "x" semanas a hacer TODO esto? Debemos prerguntarnos eso.
+
+Entonces para un MVP vemos:
+
+ALCANCE con una lista de cosas que incluye y que no.
+
